@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShadowCodder
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C programming.
+- 🌱 I’m currently learning C & Python.
 - 💞️ I'm looking to collaborate on creating Open Source Software to ensure privacy for everyone all over the world.
 - 📫 How to reach me: No way
