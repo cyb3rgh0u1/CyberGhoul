@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb3rgh0u1&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3rgh0u1" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=29E8F7&multiline=true&width=555&height=155&lines=%24whoami;cyb3rgh0u1;%24ls;cyb3rgh0u1.sh;%24./cyb3rgh0u1.sh;A+maniac+adventurer,+on+a+quest+for+Wonderland!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=29E8F7&multiline=true&width=565&height=155&lines=%24whoami;cyb3rgh0u1;%24ls;cyb3rgh0u1.sh;%24./cyb3rgh0u1.sh;A+maniac+adventurer,+on+a+quest+for+Wonderland!" alt="Typing SVG" /></a>
 &nbsp;
 <p align="center">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
