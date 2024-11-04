@@ -21,7 +21,7 @@
 
 <br>
 
-## :triangular_flag_on_post: CTF profile:
+## CTF profiles:
 <img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rgh0u1.png" alt="Your TryHackMe Badge" />
 <div align="left">
     <a href="https://app.hackthebox.com/profile/1836941">
